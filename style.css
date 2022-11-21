@@ -1,0 +1,73 @@
+h1{
+    color:rgb(94, 83, 25) ;
+    background-color: rgb(212, 192, 75);
+    text-align: center;
+  }
+
+  body{ 
+    width: 1250px;
+    margin:auto
+}
+
+h2 {  
+    color: red;
+    background-color:rgb(211, 134, 134);
+     }
+
+     h3{
+        color: red;
+        background-color:rgb(211, 134, 134);
+        
+     }
+
+     .uol-azul{ color: blue;
+        font-style:inherit;
+        font-size: 20px;
+    }
+    
+         .junta-data-uol{
+            display:flex;
+            align-items: center;
+            margin-bottom:00px;
+            margin-top: 0px;
+            
+         }
+
+
+        .terra-data{ 
+            color: blue;
+            font-style:inherit;
+            font-size: 20px;
+
+        }
+
+        .junta-data-terra{
+             display: flex;
+             align-items: center;
+        }
+
+        .g1-data{
+           display: flex;
+           align-items: center;
+        }
+
+        .g1-azul{
+            color: blue;
+            font-style:inherit;
+            font-size: 20px;
+        }
+        
+        h4 {  
+            color: red;
+            background-color:rgb(211, 134, 134);
+           }
+ 
+        .CURSO-ESPECIALIZAÇOES{
+            color: red;
+            background-color:rgb(211, 134, 134);
+
+
+
+        }
+
+        
